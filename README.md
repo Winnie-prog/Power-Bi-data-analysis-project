@@ -5,7 +5,7 @@ This project demonstrates how Power BI can be used to analyze and visualize HR d
 
 It showcases the end-to-end workflow: from data cleaning and transformation to modeling, DAX measures, and creating an interactive, insightful dashboard.
 
----
+
 
 ##  Project Objective
 
@@ -16,17 +16,17 @@ The main goal of this project is to turn raw HR data into a professional and int
 - What is the attrition rate?
 - What is the average tenure of employees?
 
----
 
 
-## ⚙️ Tools & Technologies
+
+##  Tools & Technologies
 
 - **Power BI Desktop** – For data modeling, DAX calculations, and building the dashboard.
 - **Power Query** – For data transformation and cleaning.
 - **DAX (Data Analysis Expressions)** – For creating measures and calculated columns.
 - **Microsoft Excel** – Used as the source for HR data.
 
----
+
 
 ##  Workflow Overview
 
@@ -57,15 +57,15 @@ Created several key metrics, including:
 - Consistent color scheme and layout for clarity.
 
 
----
 
-## 💡 Key Insights
+
+##  Key Insights
 
 - Visual analytics make it easier to identify trends in employee retention and demographics.
 - Clean, well-modeled data leads to accurate and meaningful metrics.
 - Power BI's DAX and interactivity capabilities allow for powerful storytelling through data.
 
----
+
 
 
 ##  Dashboard Preview
